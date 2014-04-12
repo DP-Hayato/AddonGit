@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sprites>
+    <Sprite Name="NewSprite" Cycle="1">
+        <Frame Texture="C:\Users\Marc\Downloads\siihesy3.tga" x0="0" x1="0" x2="0" x3="260" x4="1644" x5="1919" y0="0" y1="0" y2="0" y3="296" y4="820" y5="1080" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+</Sprites>

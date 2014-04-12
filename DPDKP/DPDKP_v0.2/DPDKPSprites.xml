@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sprites>
+    <Sprite Name="Test" Cycle="1">
+        <Frame Texture="C:\Users\Marc\Downloads\2gux96is (1).tga" x0="27" x1="27" x2="27" x3="154" x4="552" x5="669" y0="26" y1="26" y2="26" y3="139" y4="472" y5="549" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="DPLogoFinal" Cycle="1">
+        <Frame Texture="C:\Users\Marc\Downloads\rsz_sitelogo.tga" x0="5" x1="5" x2="5" x3="5" x4="5" x5="43" y0="4" y1="4" y2="4" y3="4" y4="4" y5="43" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Main" Cycle="1">
+        <Frame Texture="C:\Users\Marc\Downloads\43vsqr3j.tga" x0="21" x1="21" x2="21" x3="187" x4="503" x5="665" y0="23" y1="23" y2="23" y3="129" y4="449" y5="547" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="Line" Cycle="1">
+        <Frame Texture="C:\Users\Marc\Downloads\ly4wpeus.tga" x0="105" x1="105" x2="105" x3="125" x4="393" x5="411" y0="84" y1="84" y2="84" y3="95" y4="107" y5="120" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="Input" Cycle="1">
+        <Frame Texture="C:\Users\Marc\Downloads\xhqdmbad.tga" x0="26" x1="26" x2="26" x3="51" x4="347" x5="372" y0="38" y1="38" y2="38" y3="48" y4="59" y5="69" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="FormWindow" Cycle="1">
+        <Frame Texture="C:\Users\Marc\Downloads\n9vz5guv.tga" x0="0" x1="0" x2="0" x3="43" x4="107" x5="146" y0="0" y1="0" y2="0" y3="24" y4="105" y5="129" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="CharacterBackground" Cycle="1">
+        <Frame Texture="C:\Users\Marc\Downloads\wqnw48mc.tga" x0="11" x1="11" x2="11" x3="30" x4="67" x5="78" y0="6" y1="6" y2="6" y3="30" y4="55" y5="69" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <AutoButton Name="ButtonTest" Texture="C:\Users\Marc\Downloads\3dr4yk97.tga" x0="0" x1="0" x2="0" x3="6" x4="23" x5="30" y0="0" y1="0" y2="0" y3="7" y4="24" y5="30" Stretchy="1" StateBits="7" Direction="Down"/>
+    <Sprite Name="Import 2" Cycle="1">
+        <Frame Texture="C:\Users\Marc\Downloads\bitf4vtu.tga" x0="25" x1="25" x2="25" x3="49" x4="346" x5="372" y0="37" y1="37" y2="37" y3="48" y4="61" y5="69" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+</Sprites>

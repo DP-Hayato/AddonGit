@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Hayato" APIVersion="8" Name="Subdude" Description="Subdue/Disarm alarm">
+    <Script Name="Subdude.lua"/>
+    <Form Name="Subdude.xml"/>
+</Addon>

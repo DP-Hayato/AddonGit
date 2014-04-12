@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Forms>
+    <Form Class="Window" LAnchorPoint="0" LAnchorOffset="2" TAnchorPoint="0" TAnchorOffset="0" RAnchorPoint="0" RAnchorOffset="1607" BAnchorPoint="0" BAnchorOffset="820" RelativeToClient="1" Font="Default" Text="" BGColor="UI_WindowBGDefault" TextColor="UI_WindowTextDefault" Template="Default" TooltipType="OnCursor" Name="SubdudeForm" Border="1" Picture="1" SwallowMouseClicks="1" Moveable="1" Escapable="1" Overlapped="1" Sprite="SubdudeSprites:NewSprite"/>
+    <SpriteFile Name="SubdudeSprites.xml"/>
+</Forms>
